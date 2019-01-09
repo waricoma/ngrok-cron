@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "consola": "^2.3.2",
+    "delay": "^4.1.0",
+    "ngrok": "^3.1.0",
+    "request": "^2.88.0"
+  },
+  "name": "ngrok-cron",
+  "version": "1.0.0",
+  "description": "ngrok-cron with pm2",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/waricoma/ngrok-cron.git"
+  },
+  "keywords": [
+    "ngrok",
+    "gas",
+    "cron",
+    "pm2"
+  ],
+  "author": "Motone Adachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waricoma/ngrok-cron/issues"
+  },
+  "homepage": "https://github.com/waricoma/ngrok-cron#readme"
+}
