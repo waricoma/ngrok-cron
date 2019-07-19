@@ -1,5 +1,7 @@
 # ngrok-cron
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/waricoma/ngrok-cron.svg)](https://greenkeeper.io/)
+
 this system fire ngrok, next disconnect.  
 and this system do delay disconnect by microseconds option.
 
